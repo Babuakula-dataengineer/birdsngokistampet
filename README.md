@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BIRDS Society Website
 
 A premium, production-ready NGO website for **Bright Integrated Rural Development Society (BIRDS)** - empowering Kistampet village through community-driven development initiatives.
@@ -256,3 +257,7 @@ For support, email info@birdssociety.org or visit our contact page.
 **Made with 💙 for Kistampet Village**
 
 *Together for Rural Development & Community Empowerment*
+=======
+# birdsngokistampet
+BIRDS society Kistampet
+>>>>>>> 15b9a22957ed14a59b7c824452ead919b203ebd5
