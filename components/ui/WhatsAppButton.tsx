@@ -5,7 +5,7 @@ import { MessageCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 export default function WhatsAppButton() {
-  const phoneNumber = '917981974262'; // +91-7981974262
+  const phoneNumber = '918500390198'; // +91-7981974262
   const defaultMessage = 'Hello BIRDS Society, I would like to know more about your activities.';
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;
 
